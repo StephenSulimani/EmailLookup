@@ -1,0 +1,4 @@
+C:\Users\Stephen Sulimani\source\repos\EmailLookup\EmailLookup\bin\Debug\EmailLookup.dll
+C:\Users\Stephen Sulimani\source\repos\EmailLookup\EmailLookup\bin\Debug\EmailLookup.pdb
+C:\Users\Stephen Sulimani\source\repos\EmailLookup\EmailLookup\obj\Debug\EmailLookup.dll
+C:\Users\Stephen Sulimani\source\repos\EmailLookup\EmailLookup\obj\Debug\EmailLookup.pdb
